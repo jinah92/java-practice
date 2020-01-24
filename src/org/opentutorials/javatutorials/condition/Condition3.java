@@ -1,0 +1,13 @@
+package org.opentutorials.javatutorials.condition;
+
+public class Condition3 {
+
+	public static void main(String[] args) {
+		if(false){
+			System.out.println(1);
+		}else{
+			System.out.println(2);   // 실행코드
+		}
+	}
+
+}
