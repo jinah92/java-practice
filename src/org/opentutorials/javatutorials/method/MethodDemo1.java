@@ -8,7 +8,7 @@ public class MethodDemo1 {
 			System.out.println(i);
 			i++;
 		}
-	}
+	} 
 	
 	public static void main(String[] args) {
 		//numbering();
